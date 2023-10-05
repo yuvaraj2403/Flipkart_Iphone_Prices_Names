@@ -20,76 +20,76 @@ public class Pages extends BaseClass {
 	@FindBy(xpath="/html/body/div[3]/div/span")
 	private WebElement btnClose;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[2]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[1]")
 	private WebElement iPhoneName1;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[3]/div/div/div/a/div[3]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[2]")
 	private WebElement iPhoneName2;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[4]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[3]")
 	private WebElement iPhoneName3;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[5]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[4]")
 	private WebElement iPhoneName4;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[6]/div/div/div/a/div[3]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[5]")
 	private WebElement iPhoneName5;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[7]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[6]")
 	private WebElement iPhoneName6;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[7]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[7]")
 	private WebElement iPhoneName7;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[9]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[8]")
 	private WebElement iPhoneName8;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[10]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[9]")
 	private WebElement iPhoneName9;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[11]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[10]")
 	private WebElement iPhoneName10;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[12]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[11]")
 	private WebElement iPhoneName11;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[13]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[12]")
 	private WebElement iPhoneName12;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[14]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[13]")
 	private WebElement iPhoneName13;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[15]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[14]")
 	private WebElement iPhoneName14;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[16]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[15]")
 	private WebElement iPhoneName15;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[17]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[16]")
 	private WebElement iPhoneName16;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[18]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[17]")
 	private WebElement iPhoneName17;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[19]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[18]")
 	private WebElement iPhoneName18;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[20]/div/div/div/a/div[3]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[19]")
 	private WebElement iPhoneName19;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[21]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[20]")
 	private WebElement iPhoneName20;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[22]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[21]")
 	private WebElement iPhoneName21;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[23]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[22]")
 	private WebElement iPhoneName22;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[24]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[23]")
 	private WebElement iPhoneName23;
 	
-	@FindBy(xpath="//*[@id=\"container\"]/div/div[3]/div[1]/div[2]/div[25]/div/div/div/a/div[2]/div[1]/div[1]")
+	@FindBy(xpath="(//div[@class=\"_4rR01T\"])[24]")
 	private WebElement iPhoneName24;
 
 	public WebElement getTxtSearch() {
@@ -198,6 +198,174 @@ public class Pages extends BaseClass {
 
 	public WebElement getiPhoneName24() {
 		return iPhoneName24;
+	}
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[1]")
+	public WebElement cost1;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[2]")
+	public WebElement cost2;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[3]")
+	public WebElement cost3;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[4]")
+	public WebElement cost4;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[5]")
+	public WebElement cost5;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[6]")
+	public WebElement cost6;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[7]")
+	public WebElement cost7;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[8]")
+	public WebElement cost8;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[9]")
+	public WebElement cost9;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[10]")
+	public WebElement cost10;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[11]")
+	public WebElement cost11;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[12]")
+	public WebElement cost12;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[13]")
+	public WebElement cost13;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[14]")
+	public WebElement cost14;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[15]")
+	public WebElement cost15;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[16]")
+	public WebElement cost16;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[17]")
+	public WebElement cost17;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[18]")
+	public WebElement cost18;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[19]")
+	public WebElement cost19;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[20]")
+	public WebElement cost20;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[21]")
+	public WebElement cost21;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[22]")
+	public WebElement cost22;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[23]")
+	public WebElement cost23;
+	
+	@FindBy(xpath="(//div[@class=\"_30jeq3 _1_WHN1\"])[24]")
+	public WebElement cost24;
+	
+	public WebElement getCost1() {
+		return cost1;
+	}
+
+	public WebElement getCost2() {
+		return cost2;
+	}
+
+	public WebElement getCost3() {
+		return cost3;
+	}
+
+	public WebElement getCost4() {
+		return cost4;
+	}
+
+	public WebElement getCost5() {
+		return cost5;
+	}
+
+	public WebElement getCost6() {
+		return cost6;
+	}
+
+	public WebElement getCost7() {
+		return cost7;
+	}
+
+	public WebElement getCost8() {
+		return cost8;
+	}
+
+	public WebElement getCost9() {
+		return cost9;
+	}
+
+	public WebElement getCost10() {
+		return cost10;
+	}
+
+	public WebElement getCost11() {
+		return cost11;
+	}
+
+	public WebElement getCost12() {
+		return cost12;
+	}
+
+	public WebElement getCost13() {
+		return cost13;
+	}
+
+	public WebElement getCost14() {
+		return cost14;
+	}
+
+	public WebElement getCost15() {
+		return cost15;
+	}
+
+	public WebElement getCost16() {
+		return cost16;
+	}
+
+	public WebElement getCost17() {
+		return cost17;
+	}
+
+	public WebElement getCost18() {
+		return cost18;
+	}
+
+	public WebElement getCost19() {
+		return cost19;
+	}
+
+	public WebElement getCost20() {
+		return cost20;
+	}
+
+	public WebElement getCost21() {
+		return cost21;
+	}
+
+	public WebElement getCost22() {
+		return cost22;
+	}
+
+	public WebElement getCost23() {
+		return cost23;
+	}
+
+	public WebElement getCost24() {
+		return cost24;
 	}
 	
 	
